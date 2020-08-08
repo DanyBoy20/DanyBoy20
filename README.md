@@ -2,7 +2,7 @@
 
 ## Hijo de Dios, Ingeniero de Software, Profesor, y futbolista !
 - 🌱 Siempre aprendiendo cosas nuevas 🤣
-- 👯 Tratando de colaborar con otros desarrolladores
+- 💪 Tratando de colaborar con otros desarrolladores
 - 🥅 Metas 2020: Crear contenidos sobre programación
 - ⚡ Otros: Futbol, video juegos.
 
