@@ -46,5 +46,3 @@
 [linkedin]: https://mx.linkedin.com/pub/daniel-hernandez/34/510/2ba
 [pinterest]: https://es.pinterest.com/dhwebdesign/
 [stackoverflow]: https://stackexchange.com/users/19030899/dany-hern%c3%a1ndez
-
-
