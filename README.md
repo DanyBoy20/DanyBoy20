@@ -35,6 +35,7 @@
 [<img align="left" alt="C#" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/csharp.svg" />][website]
 [<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/github.svg" />][website]
 [<img align="left" alt="wordpress" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/wp.svg" />][website]
+[<img align="left" alt="Azure DevOps" width="150px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/d8f8979fe18717544c8e12c215adf43e310205fc/vsts.svg" />][website]
 
 <br />
 <br />
