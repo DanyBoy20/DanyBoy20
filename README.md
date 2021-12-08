@@ -3,7 +3,7 @@
 ## Hijo de Dios, Ingeniero de Software, Profesor, y futbolista !
 - 🌱 Siempre aprendiendo cosas nuevas 🤣
 - 👯 Tratando de colaborar con otros desarrolladores
-- ⚡ Otros: Futbol, video juegos.
+- ⚡ Otros: Cine, Fútbol, video juegos.
 
 ### Contactame:
 
@@ -16,7 +16,7 @@
 [<img align="left" alt="dh web design | StackOverflow" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/stackoverflow.svg" />][stackoverflow]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/master/leetcodelogo.svg" />][leetcode]
 
-<br />
+<br /><br />
 
 ### Lenguajes y herramientas:
 
