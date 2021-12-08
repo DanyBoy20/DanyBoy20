@@ -13,8 +13,8 @@
 [<img align="left" alt="dh web design | LinkedIn" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/iconlinkedin.svg" />][linkedin]
 [<img align="left" alt="dh web design | Facebook" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/iconfb.svg" />][facebook]
 [<img align="left" alt="dh web design | Pinterest" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/iconpinterest.svg" />][pinterest]
-[<img align="left" alt="dh web design | StackOverflow" width="45px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/stackoverflow.svg" />][stackoverflow]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/master/leetcodelogo.svg" />][leetcode]
+[<img align="left" alt="dh web design | StackOverflow" width="30px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/c3aeb86c19594f704b695bcdee52a0e5e3393e02/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/DanyBoy20/mediacontent/master/leetcodelogo.svg" />][leetcode]
 
 <br />
 
